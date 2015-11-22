@@ -5,3 +5,9 @@
 .Trashes
 *~
 #*#
+*.lock
+_site/
+Gemfile.lock
+.bundle/
+.jekyll-metadata
+.sass-cache
