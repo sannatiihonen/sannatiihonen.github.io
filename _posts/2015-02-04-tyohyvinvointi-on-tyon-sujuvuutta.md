@@ -1,9 +1,16 @@
 ---
+# Defines the layout for permalinked posts
 layout: default
+# Title which is used for social media, feeds, etc.
 title: Työhyvinvointi on työn sujuvuutta
+# Tags to group posts, comma-separated (like this: tag1,tag2,tag3)
 tags: työhyvinvointi
+# Author name
 author: Sanna Tiihonen
+# Language of post
 lang: fi
+# Thumbnail image for post. Start with a slash
+image: /images/sanna_default.jpg
 ---
 
 # Työhyvinvointi on työn sujuvuutta

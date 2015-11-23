@@ -6,6 +6,24 @@
         <div class="content"  lang="{{ page.lang }}">
           {{content}}
         </div>
+        <script type="application/ld+json">
+          {
+          "@context":"http://schema.org",
+          "@type":"BlogPosting",
+          "@id":"{{ site.url }}{{ page.url }}",
+          "url":"{{ site.url }}{{ page.url }}",
+          "image":"{{ site.url }}{{ page.image }}",
+          "datePublished":"{{ page.date | date: "%Y-%m-%d" }}",
+          "author":{
+          "@type":"Person",
+          "name":"{{ page.author }}",
+          "url":"{{ site.url }}"},
+          "headline":"{{ page.title }}"
+          }
+          }
+          }
+</script>
+
       </section>
     </div>
 

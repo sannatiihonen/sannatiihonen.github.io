@@ -6,6 +6,8 @@ url: https://sannatiihonen.github.io
 tz: Europe/Helsinki
 # Default language (can be overridden in posts)
 lang: fi
+# Default image if no post-specific one
+image: /images/sanna_default.jpg
 # Default author (can be overriden in posts)
 author:
   name: Sanna Tiihonen
