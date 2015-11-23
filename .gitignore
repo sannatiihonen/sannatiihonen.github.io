@@ -4,8 +4,9 @@
 .Spotlight-V100
 .Trashes
 *~
-#*#
+*#
 *.lock
+.#*
 _site/
 Gemfile.lock
 .bundle/

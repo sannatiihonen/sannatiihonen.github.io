@@ -5,9 +5,11 @@ title: Tuoreimmat kirjoitukset
 
 {% for post in site.posts %}  
 
+<div class="content" lang="{{ post.lang }}">
 {{post.content}}
-<div><small>
+</div>
+<div class="permalink">
 Pysyvä linkki kirjoitukseen <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>, julkaisupäivä {{post.date | date: "%Y-%m-%d"}}.
-</small></div>
+</div>
 </hr>
 {% endfor %}  

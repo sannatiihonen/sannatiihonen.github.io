@@ -1,0 +1,12 @@
+# Site name
+name: Sanna Tiihonen
+# No trailing slash
+url: https://sannatiihonen.github.io
+# Reference timezone for time calculations
+tz: Europe/Helsinki
+# Default language (can be overridden in posts)
+lang: fi
+# Default author (can be overriden in posts)
+author:
+  name: Sanna Tiihonen
+  email: sanna.tiihonen@iki.fi

@@ -3,6 +3,7 @@ layout: default
 title: Työhyvinvointi on työn sujuvuutta
 tags: työhyvinvointi
 author: Sanna Tiihonen
+lang: fi
 ---
 
 # Työhyvinvointi on työn sujuvuutta
