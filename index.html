@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Tuoreimmat kirjoitukset
 ---
 
 <!-- MAIN CONTENT -->
@@ -9,6 +8,7 @@ title: Tuoreimmat kirjoitukset
     {% for post in site.posts %}  
     
     <div class="content" lang="{{ post.lang }}">
+      <h1 class="posttitle"><a class="posttitle" href="{{post.url}}">{{post.title | escape}}</a></h1>
       {{post.content}}
     </div>
     <div class="permalink">

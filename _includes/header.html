@@ -5,12 +5,28 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <meta http-equiv="Content-Language" content="{{ site.lang }}">
-    <meta name="description" content="{{ page.title | escape}}: Sanna Tiihosen kirjoituksia työhyvinvoinnista ja työn sujuvuudesta">
+{% if page.summary %}
+    <meta name="description" content="{{ page.summary | escape}} - Sanna Tiihosen kirjoituksia työhyvinvoinnista ja työn sujuvuudesta">
+{% else %}
+    <meta name="description" content="Sanna Tiihosen kirjoituksia työhyvinvoinnista ja työn sujuvuudesta">
+{% endif %}
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:site" content="@sannatiihonen" />
+{% if page.title %}
     <meta name="twitter:title" content="{{ page.title | escape}}" />
-    <meta name="twitter:description" content="Sanna Tiihosen kirjoituksia työhyvinvoinnista ja työn sujuvuudesta" />
     <meta property="og:title" content="{{ page.title | escape}}" />
+{% else %}
+    <meta name="twitter:title" content="Työhyvinvointi on työn sujuvuutta" />
+    <meta property="og:title" content="Työhyvinvointi on työn sujuvuutta" />
+{% endif %}    
+{% if page.summary %}
+    <meta name="twitter:description" content="{{ page.summary | escape }}" />
+    <meta property="og:description" content="{{ page.summary | escape }}"/>
+{% else %}
+    <meta name="twitter:description" content="Sanna Tiihosen kirjoituksia työhyvinvoinnista ja työn sujuvuudesta" />
+    <meta property="og:description" content="Sanna Tiihosen kirjoituksia työhyvinvoinnista ja työn sujuvuudesta"/>
+{% endif %}    
+
     <meta property="og:site_name" content="Sanna Tiihosen kirjoituksia työhyvinvoinnista ja työn sujuvuudesta"/>
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 {% if page.image %}
@@ -28,7 +44,11 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
     <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.url }}/atom.xml" />
     
+{% if page.title %}
     <title>{{ page.title | escape}} - Sanna Tiihonen</title>
+{% else %}
+    <title>Sanna Tiihosen kirjoituksia työhyvinvoinnista ja työn sujuvuudesta</title>
+{% endif %}
   </head>
   
   <body>
@@ -37,10 +57,9 @@
     <div id="header_wrap" class="outer">
         <header class="inner">
 
-          <h1 id="project_tagline">Työhyvinvointi on työn sujuvuutta</h1>
-          <p>HR-ammattilainen, joka tykkää kirjoittamisesta. Liekeissä työnteon sujuvoittamisesta ja työelämän parantamisesta.</p>
-          <p>Kiitos, että tulit sivulleni!</p>
-          <p><a href="https://twitter.com/sannatiihonen">Twitterissä @sannatiihonen</a> - <a href="https://www.linkedin.com/in/sannatiihonen">LinkedIn-profiili</a>
+          <h1 id="project_tagline"><a class="posttitle" href="{{site.url}}">Työhyvinvointi on työn sujuvuutta</a></h1>
+          <p class="headertext">Sanna Tiihonen, HR-ammattilainen, joka tykkää kirjoittamisesta ja konkreettisuudesta. Intohimona työelämän parantaminen ja työn sujuvuuden lisääminen. Kiinnostunut erilaisista ajanhallinnan ja työn näkyväksi tekemisen työkaluista.</p>
+          <p class="headertext"><a href="https://twitter.com/sannatiihonen">Twitterissä @sannatiihonen</a> - <a href="https://www.linkedin.com/in/sannatiihonen">LinkedIn-profiili</a>
             </p>
         </header>
     </div>

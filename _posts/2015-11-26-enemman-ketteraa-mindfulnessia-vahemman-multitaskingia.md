@@ -2,9 +2,9 @@
 # Defines the layout for permalinked posts
 layout: default
 # Title which is used for social media, feeds, etc.
-title: Enemmän ketterää mindfulnessia, vähemmän multitaskingia
+title: Enemmän ketterää mindfulnessia, vähemmän sekavaa multitaskingia
 # Summary is a short (1 or 2 sentences) summary, for social media
-summary: 
+summary: Kirjoitus siitä, miten kokeilimme kanban-taulua HR-tiimissä ja miten se onnistui.
 # Tags to group posts, comma-separated (like this: tag1,tag2,tag3)
 tags: kanban,työhyvinvointi
 # Author name
@@ -14,8 +14,6 @@ lang: fi
 # Thumbnail image for post. Start with a slash
 image: /images/sanna_default.jpg
 ---
-
-# Enemmän ketterää mindfulnessia, vähemmän sekavaa multitaskingia!
 
 En ole luullakseni koskaan ennen kuullut niin paljon puhetta
 priorisoinnin, ketteryyden ja työtapojen muutoksen tarpeesta kuin

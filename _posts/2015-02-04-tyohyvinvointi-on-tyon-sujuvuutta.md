@@ -3,6 +3,8 @@
 layout: default
 # Title which is used for social media, feeds, etc.
 title: Työhyvinvointi on työn sujuvuutta
+# Summary is a short (1 or 2 sentences) summary, for social media
+summary: Mitä käytännön työkaluja lean-menetelmät tarjoavat työn sujuvoittamiseen?
 # Tags to group posts, comma-separated (like this: tag1,tag2,tag3)
 tags: työhyvinvointi
 # Author name
@@ -12,8 +14,6 @@ lang: fi
 # Thumbnail image for post. Start with a slash
 image: /images/sanna_default.jpg
 ---
-
-# Työhyvinvointi on työn sujuvuutta
 
 Työhyvinvointi on käsitteenä laaja. Olen monesti miettinyt, että
 työhyvinvoinnin sijaan voisi hyvin puhua työn
@@ -26,7 +26,7 @@ tai se, että tieto ei kulje.  Liiallinen kuormitus näkyy työn
 laadussa, kasvattaa sairauspoissaolojen määrää ja altistaa
 työtapaturmille. Pitkittyessään se voi johtaa jopa ennenaikaiseen
 eläköitymiseen. Seuraukset tulevat kalliiksi työnantajalle mutta myös
-yhteiskunnalle.  [Työterveyslaitoksen
+yhteiskunnalle. [Työterveyslaitoksen
 mukaan](http://www.ttl.fi/fi/tyoterveyslaitos/viesti_paattajille/Documents/vp1_2014_tttilinpaatos.pdf)
 kansantaloudellisesti mitattuna kustannus on Suomessa 41 miljardia
 euroa vuosittain. Se koostuu korkeista työnantajamaksuista,
