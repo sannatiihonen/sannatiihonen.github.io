@@ -17,7 +17,7 @@ image: /images/sanna_default.jpg
 
 En ole luullakseni koskaan ennen kuullut niin paljon puhetta
 priorisoinnin, ketteryyden ja työtapojen muutoksen tarpeesta kuin
-kuluneena syksynä. Mitä se ketteryys on käytännässä? Tai ne uudet työn
+kuluneena syksynä. Mitä se ketteryys on käytännössä? Tai ne uudet työn
 tekemisen tavat? Kokeilimme sitä HR-tiimissämme käytännössä. Tein
 hyvin yksinkertaisen sovelluksen Toyotalla kehitetystä
 kanban-menetelmästä. Hyödynsimme sitä töiden pilkkomiseen,
