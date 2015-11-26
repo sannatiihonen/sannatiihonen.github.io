@@ -71,7 +71,7 @@ h1 {
   font-weight: 700;
 }
 
-a.posttitle:link {
+a.posttitle:link,  {
     color: #000000;                   
 }
 
