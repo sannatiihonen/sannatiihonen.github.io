@@ -29,10 +29,10 @@ Suurimmat odotukset palautteen saamiseksi suunnataan usein oman esimiehen suunta
 
 ### Millä keinoin sen palautteen sitten saa virtaamaan?
 
-*Rakenna luottamusta, joko esimiehenä tai työyhteisön jäsenenä.* Uskon, että luottamusta syntyy aidolla ja mahdollisimman avoimella viestinnällä, sillä että työyhteisössä keskustellaan jatkuvasti yhdessä ja päätösten perusteet kerrotaan läpinäkyvästi. Ja myös sillä, että ihmiset oppivat tuntemaan toisensa, hieman enemmänkin kuin vain työtovereina.
+**Rakenna luottamusta, joko esimiehenä tai työyhteisön jäsenenä.** Uskon, että luottamusta syntyy aidolla ja mahdollisimman avoimella viestinnällä, sillä että työyhteisössä keskustellaan jatkuvasti yhdessä ja päätösten perusteet kerrotaan läpinäkyvästi. Ja myös sillä, että ihmiset oppivat tuntemaan toisensa, hieman enemmänkin kuin vain työtovereina.
 
-*Panosta tiimityön kehittämiseen.* Hyvän palautekulttuurin yhtenä kivijalkana tuntuu olevan se, että työyhteisö haluaa vilpittömästi auttaa toinen toistaan pääsemään parhaaseensa, koska viime kädessä lopputulos on yhteisen työn tulos. Kun tiimin yhteistyö toimii, tekemistä ajaa eteenpäin yhteinen halu päästä maaliin.
+**Panosta tiimityön kehittämiseen.** Hyvän palautekulttuurin yhtenä kivijalkana tuntuu olevan se, että työyhteisö haluaa vilpittömästi auttaa toinen toistaan pääsemään parhaaseensa, koska viime kädessä lopputulos on yhteisen työn tulos. Kun tiimin yhteistyö toimii, tekemistä ajaa eteenpäin yhteinen halu päästä maaliin.
 
-*Rakenna palautteen antaminen osaksi tekemistä.* Ketteristä menetelmistä saa hyviä ideoita siihen, miten palautteen antamisen voi sisällyttää osaksi normaalia toimintaa. Retrospektiivit ovat tiimille hyvä keino arvioida yhteistä työskentelyä ja toimintamalleja projektin jälkeen. Yksittäisessä projektissa voi käyttää säännöllisesti pidettäviä demo-tilaisuuksia, joissa siihenastista työtä esitellään ja muu tiimi pääsee antamaan siitä arvokasta palautetta.
+**Rakenna palautteen antaminen osaksi tekemistä.** Ketteristä menetelmistä saa hyviä ideoita siihen, miten palautteen antamisen voi sisällyttää osaksi normaalia toimintaa. Retrospektiivit ovat tiimille hyvä keino arvioida yhteistä työskentelyä ja toimintamalleja projektin jälkeen. Yksittäisessä projektissa voi käyttää säännöllisesti pidettäviä demo-tilaisuuksia, joissa siihenastista työtä esitellään ja muu tiimi pääsee antamaan siitä arvokasta palautetta.
 
 Palaute ei saisi olla kerran tai kahdesti vuodessa annettavaa erikoisherkkua vaan jokapäiväistä, hyvää aamupuuroa. Ja ensi alkuun palautteen saa virtaamaan esimerkiksi sillä, että sitä pyytää ja alkaa antaa itse. Parhaimmillaan ympärillä oleva tiimi toimii hyvänä peilinä omalle työlle, auttaa suuntaamaan tekemistä oikeaan suuntaan ja tekee kehityksen näkyväksi.
