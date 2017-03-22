@@ -2,7 +2,7 @@
 # Defines the layout for permalinked posts
 layout: default
 # Title which is used for social media, feeds, etc.
-title: Kuusi minuuttia vai kuusi tuntia - Hetkeen tarttumisesta ja oikeiden asioiden tekemisestä
+title: Kuusi minuuttia vai kuusi tuntia - hetkeen tarttumisesta ja oikeiden asioiden tekemisestä
 # Summary is a short (1 or 2 sentences) summary, for social media
 summary: Tuottavuus paranee kehittämällä työn tekemisen tapoja, ei pidentämällä työpaikalla vietettyä aikaa.
 # Tags to group posts, comma-separated (like this: tag1,tag2,tag3)
@@ -50,7 +50,7 @@ on kirjoittanut siitä paljon](https://www.theguardian.com/commentisfree/2017/ja
 
 Ruotsissa lyhyempi työpäivä on karsinut tekemisestä turhia
 rönsyjä. Työnteko on intensiivisempää ja siinä keskitytään
-olennaiseen. Työntekijälle jää toisaalta myös enemmän aikaa omille
+olennaiseen. Työntekijälle jää enemmän aikaa omille
 harrastuksille, viettää aikaa perheensä tai ystäviensä kanssa. Kun
 aikaa jää aikaa muullekin elämälle, saa se aikaa positiivisen
 oravanpyörän: mieli on työssä kirkkaampi, vireämpi ja ajatukset
@@ -74,9 +74,8 @@ göteborgilainen Toyotan huoltokeskus, jossa ei ehditty palvelemaan
 asiakkaita toivotulla tahdilla. Työpäivä lyhennettiin yli vuosikymmen
 sitten kuuteen tuntiin kahdeksan tunnin palkalla, joka mahdollisti
 työn tekeminen kahdessa vuorossa ja työvälineiden hyödyntämisen
-tehokkaammin. [Henkilöstö on tyytyväisempää ja työn tuottavuus sekä
-laatu
-paranivat](https://www.theguardian.com/world/2015/sep/17/efficiency-up-turnover-down-sweden-experiments-with-six-hour-working-day).
+tehokkaammin. Henkilöstö on tyytyväisempää ja työn tuottavuus sekä
+laatu paranivat.
 
 ### Auttavatko tavoitteet tekemään valintoja
 
@@ -85,7 +84,7 @@ työn tuottavuuden kulkevan käsi kädessä työssä vietetyn ajan
 kanssa. Työajan pidentämisen sijaan työn tuottavuus lisääntyy sillä,
 että tehdään asioita, jotka vievät haluttuun suuntaan. Loppujen
 lopuksi päästään siihen, että tavoitteiden tulee olla selkeitä. Jotta
-voi esimerkiksi varastaa pienet luppohetken kirjan kirjoittamiseen,
+voi esimerkiksi varastaa pienet luppohetket kirjan kirjoittamiseen,
 jos se on asia jota elämältä haluaa!
 
 P.s. Konkreettinen vinkki tekemisen flown parantamiseen on
