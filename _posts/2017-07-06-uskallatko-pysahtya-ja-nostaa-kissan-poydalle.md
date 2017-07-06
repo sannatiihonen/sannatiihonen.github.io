@@ -49,7 +49,7 @@ jonkin asian tekemistä uudella tavalla.
 
 Jurgen Appelo [twiittasi alla olevan kysymysparin](https://twitter.com/jurgenappelo/status/847539346718773249/photo/1), josta mietin, että se voisi helpottaa pysähtymistä: 
 
-<img src="https://sannatiihonen.github.io/images/appelo-tweet.png" width="250" <lt="What did we do well? What did we learn?" />
+<img src="https://sannatiihonen.github.io/images/appelo-tweet.png" width="250" alt="What did we do well? What did we learn?" />
 
 Kokeilin kysymyksiä tapaamisessa, jossa arvioimme käyttöön ottamamme
 toimintatavan käynnistymistä. Pohdimme, missä olemme onnistuneet (What
