@@ -4,9 +4,9 @@ layout: default
 # Title which is used for social media, feeds, etc.
 title: Uskallatko pysähtyä ja nostaa kissan pöydälle?
 # Summary is a short (1 or 2 sentences) summary, for social media
-summary: Tuottavuus paranee kehittämällä työn tekemisen tapoja, ei pidentämällä työpaikalla vietettyä aikaa.
+summary: Pysähtyminen on tarpeellista aivoille ja mielelle. Kehittymisen kannalta on olennaista pysähtyä, jotta voi tunnistaa, missä on tarpeen parantaa.
 # Tags to group posts, comma-separated (like this: tag1,tag2,tag3)
-tags: tuottavuus,ajankäyttö,työhyvinvointi
+tags: työhyvinvointi
 # Author name
 author: Sanna Tiihonen
 # Language of post
@@ -31,7 +31,7 @@ haluaa tulla paremmaksi jossakin, tulisi olla mahdollista harjoitella
 uusia asioita niin että tekeminen ei ole jatkuvaa suorittamista
 tasolla, jolla pitää vältellä virheitä.
 
-<iframe src="https://embed.ted.com/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about" width="854px" height="480px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="https://embed.ted.com/talks/eduardo_briceno_how_to_get_better_at_the_things_you_care_about" width="426px" height="240px" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Jäin kovasti miettimään kehittymistä työelämän kontekstissa. Briceñon
 oppi – ja Lev Vygotskyn vielä tunnetumpi ajatus [lähikehityksen
@@ -50,7 +50,7 @@ jonkin asian tekemistä uudella tavalla.
 
 Jurgen Appelo [twiittasi alla olevan kysymysparin](https://twitter.com/jurgenappelo/status/847539346718773249/photo/1), josta mietin, että se voisi helpottaa pysähtymistä: 
 
-![What did we do well? What did we learn?](https://sannatiihonen.github.io/images/appelo-tweet.png | width=200)
+![What did we do well? What did we learn?](https://sannatiihonen.github.io/images/appelo-tweet.png = 200x)
 
 Kokeilin kysymyksiä tapaamisessa, jossa arvioimme käyttöön ottamamme
 toimintatavan käynnistymistä. Pohdimme, missä olemme onnistuneet (What
@@ -59,7 +59,7 @@ learn).
 
 Kysymyksiä on vain kaksi, mutta ne auttoivat helposti jäsentämään keskustelua. Kysymys oppimisesta auttoi pohtimaan, mitä uutta olemme oppineet, mutta ohjasi havainnoimaan myös sitä, missä voisimme parantaa.
 
-Tykkään pienistä arkeen ujutettavista jutuista, koska olemmehan sitä mitä toistuvasti teemme. Yhdessä töitä tekevä tiimi voi esimerkiksi arvioida töitään viikoittain näiden kysymysten avulla. Itseltään nämä kysymykset voi kysyä vaikka jokaisen työviikon tai jopa päivän päätteeksi. Näin heinäkuussa tulee mieleen, että vähintään ennen lomaa olisi tarpeellista ja palkitsevaa painaa pause-nappulaa ja katsoa taaksepäin: huomata omat onnistumiset, nauttia niistä ansaitusti ja toisaalta noteerata ne asiat, joissa petrata lomalta palatessa.
+Tykkään pienistä arkeen ujutettavista jutuista, koska _olemmehan sitä mitä toistuvasti teemme_. Yhdessä töitä tekevä tiimi voi esimerkiksi arvioida töitään viikoittain näiden kysymysten avulla. Itseltään nämä kysymykset voi kysyä vaikka jokaisen työviikon tai jopa päivän päätteeksi. Näin heinäkuussa tulee mieleen, että vähintään ennen lomaa olisi tarpeellista ja palkitsevaa painaa pause-nappulaa ja katsoa taaksepäin: huomata omat onnistumiset, nauttia niistä ansaitusti ja toisaalta noteerata ne asiat, joissa petrata lomalta palatessa.
 
 ### Mikä vie eteenpäin
 
