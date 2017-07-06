@@ -35,8 +35,7 @@ tasolla, jolla pitää vältellä virheitä.
 
 Jäin kovasti miettimään kehittymistä työelämän kontekstissa. Briceñon
 oppi – ja Lev Vygotskyn vielä tunnetumpi ajatus [lähikehityksen
-vyöhykkeestä](https://en.wikipedia.org/wiki/Zone_of_proximal_development)
-- tuntuu teoriassa itsestään selvältä. Käytännössä se on paljon
+vyöhykkeestä](https://en.wikipedia.org/wiki/Zone_of_proximal_development) - tuntuu teoriassa itsestään selvältä. Käytännössä se on paljon
 vaikeampaa. Töissä on kiire ja aika usein helpointa on tehdä asioita
 niin kuin aina ennenkin.
 
