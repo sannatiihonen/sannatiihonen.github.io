@@ -50,7 +50,7 @@ jonkin asian tekemistä uudella tavalla.
 
 Jurgen Appelo [twiittasi alla olevan kysymysparin](https://twitter.com/jurgenappelo/status/847539346718773249/photo/1), josta mietin, että se voisi helpottaa pysähtymistä: 
 
-![What did we do well? What did we learn?](https://sannatiihonen.github.io/images/appelo-tweet.png = 200x)
+<img src="https://sannatiihonen.github.io/images/appelo-tweet.png" width="250" <lt="What did we do well? What did we learn?" />
 
 Kokeilin kysymyksiä tapaamisessa, jossa arvioimme käyttöön ottamamme
 toimintatavan käynnistymistä. Pohdimme, missä olemme onnistuneet (What
