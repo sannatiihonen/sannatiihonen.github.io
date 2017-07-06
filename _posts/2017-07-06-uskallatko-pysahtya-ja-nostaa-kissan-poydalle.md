@@ -27,7 +27,7 @@ TedX-esityksen](https://www.ted.com/talks/eduardo_briceno_how_to_get_better_at_t
 siitä, miten tulla paremmaksi jossakin itselleen merkityksellisessä
 asiassa. Briceño erotti toisistaan suorittamisen (performance zone) ja
 uuden harjoittelun (learning zone). Briceñon ydinviesti oli, että jos
-haluaa tulla paremmaksi jossakin, tulisi olla mahdollista harjoitella
+haluaa tulla paremmaksi jossakin, tulee olla mahdollista harjoitella
 uusia asioita niin että tekeminen ei ole jatkuvaa suorittamista
 tasolla, jolla pitää vältellä virheitä.
 
@@ -42,7 +42,7 @@ niin kuin aina ennenkin.
 Työssä oppiminen vaikeaa, ellei mahdotonta, jos työ on jatkuvaa
 eteenpäin juoksemista. Tekeminen on lyhytnäköistä, jos arjessa ei
 malteta pysähtyä nauttimaan jo aikaansaaduista saavutuksista,
-pohtimaan missä voisi olla tarpeen parantaa ja esimerkiksi kokeilla
+pohtia missä voisi olla tarpeen parantaa ja esimerkiksi kokeilla
 jonkin asian tekemistä uudella tavalla.
 
 ### Pysähtymisestä helpompaa
@@ -58,7 +58,9 @@ learn).
 
 Kysymyksiä on vain kaksi, mutta ne auttoivat helposti jäsentämään keskustelua. Kysymys oppimisesta auttoi pohtimaan, mitä uutta olemme oppineet, mutta ohjasi havainnoimaan myös sitä, missä voisimme parantaa.
 
-Tykkään pienistä arkeen ujutettavista jutuista, koska _olemmehan sitä mitä toistuvasti teemme_. Yhdessä töitä tekevä tiimi voi esimerkiksi arvioida töitään viikoittain näiden kysymysten avulla. Itseltään nämä kysymykset voi kysyä vaikka jokaisen työviikon tai jopa päivän päätteeksi. Näin heinäkuussa tulee mieleen, että vähintään ennen lomaa olisi tarpeellista ja palkitsevaa painaa pause-nappulaa ja katsoa taaksepäin: huomata omat onnistumiset, nauttia niistä ansaitusti ja toisaalta noteerata ne asiat, joissa petrata lomalta palatessa.
+Tykkään pienistä arkeen ujutettavista jutuista, koska _olemmehan sitä mitä toistuvasti teemme_. Yhdessä töitä tekevä tiimi voi esimerkiksi arvioida töitään viikoittain näiden kysymysten avulla. Itseltään nämä kysymykset voi kysyä vaikka jokaisen työviikon tai jopa päivän päätteeksi. 
+
+Näin heinäkuussa tulee mieleen, että vähintään ennen lomaa olisi tarpeellista ja palkitsevaa painaa pause-nappulaa ja katsoa taaksepäin: huomata omat onnistumiset, nauttia niistä ansaitusti ja toisaalta noteerata ne asiat, joissa petrata lomalta palatessa.
 
 ### Mikä vie eteenpäin
 
@@ -66,4 +68,4 @@ Pysähtyminen on tarpeellista aivoille ja mielelle. Onnistumiset ovat työn merk
 
 Kehittymisen kannalta on olennaista pysähtyä, jotta voi tunnistaa, missä on tarpeen parantaa: onko itsellä tai tiimillä esimerkiksi sellaisia osaamisen alueita, jotka eivät ole vielä ollenkaan hallussa, mutta olisi syytä olla tai onko tekemisessä sellaisia kohtia, jotka haittaavat työntekemisen flow’ta tai joista tulee vähemmän hyvää palautetta. Tekemisen pullonkaulat voivat syntyä monesta eri syystä, mutta usein esimerkiksi juuri osaamattomuudesta, joka on olennainen tunnistaa kokonaisuuden kannalta.
 
-Tuloksien aikaansaamisen kokemusten, onnistumisten ja kehittymisen kannalta tärkeää on osata antaa arvoa pysähtymiselle, koska se auttaa pääsemään eteenpäin. Eteenpäin pääseminen antaa taas uusia onnistumisen elämyksiä. Ehkä kaikkein olennaisinta on uskaltaa katsoa totuutta silmiin, nostaa kissa pöydälle ja nähdä ne asiat, jotka haittaavat tekemistä kaikkein eniten, jotta niille voi tehdä jotakin.
+On tärkeää osata antaa arvoa pysähtymiselle, koska se auttaa pääsemään eteenpäin. Ehkä kaikkein olennaisinta on uskaltaa katsoa totuutta silmiin, nostaa kissa pöydälle ja nähdä ne asiat, jotka haittaavat tekemistä kaikkein eniten, jotta niille voi tehdä jotakin. Se kannattaa, koska se voi tehdä tekemisestä paljon sujuvampaa ja kivempaa.
